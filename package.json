@@ -1,0 +1,29 @@
+{
+  "name": "data-processing-practice",
+  "version": "1.0.0",
+  "description": "Some random practice samples",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apoorv-mishra/data-processing-practice.git"
+  },
+  "author": "Apoorv Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apoorv-mishra/data-processing-practice/issues"
+  },
+  "homepage": "https://github.com/apoorv-mishra/data-processing-practice#readme",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "dependencies": {
+    "camelcase": "^5.3.1",
+    "decamelize": "^3.2.0"
+  }
+}
